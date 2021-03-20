@@ -1,5 +1,5 @@
 # generateEquations
-A teaching aid to generate simple linear algebra equations ands solve them 
+A teaching / learning aid to generate simple linear algebra equations ands solve them 
 
 ## Overview
 This project allows students of linear algebra to get an endless supply of two variable, three variable and linear inequality equations to work through, solve and gain practice as well as expertise. <br>
